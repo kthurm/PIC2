@@ -50,6 +50,7 @@ a.h3:hover{color:rgb(237, 32, 36);}
 
 h4{font-size:10pt;
 line-height: 13pt;
+color:#0060c6
 }
 
 .topNav .col{padding-left:1px;}
@@ -105,7 +106,8 @@ header {
 .nav-open #nav-icon span:nth-child(4){top:9px;width:0;left:50%}
 
 ul.menuItems {
-    margin-top: 110px;
+    margin-top: 155px;
+    margin-left: 34px;
 }
 
 .nav-item li{display: block;}
@@ -114,12 +116,12 @@ ul.menuItems {
     color: rgb(0, 96, 198);
     font-size: 19pt;
     line-height: 37pt;
-    text-transform: uppercase;
+    text-decoration: none;
 }
+
 .main-menu .nav li a:hover {
     color: rgb(41, 61, 101);
 }
-
 
 main {
     margin-top: 90px;
@@ -147,6 +149,7 @@ color:rgb(0, 96, 198);}
 .card.mainLeft img {
     max-width: 300px;
 }
+
 .row.cardWrap{display: block}
 
 .card{
@@ -158,19 +161,17 @@ line-height: 17pt;
 color:rgb(0, 96, 198);
 font-family: 'EB Garamond', serif;
 margin-bottom: 0;
-hyphens: auto;}
+hyphens: manual;}
 
 .card-img-top {max-width:190px;
 }
-   
 
 p{font-size:20pt;
 line-height: 24pt;
-color:#000;
+color:#0060c6;
 font-family: 'EB Garamond', serif;}
 
 p.red{color:rgb(237, 32, 36);}
-
 
 
 footer{background: rgb(251, 176, 59);
